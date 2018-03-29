@@ -1,0 +1,12 @@
+# Site settings
+title: Rainbow
+email: chinglyn@163.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+weibo_username: OMERICOM
+github_username: OMERICOM
+
+# Build settings
+markdown: kramdown
